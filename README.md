@@ -19,7 +19,7 @@ PC移行時に何をインストールしたのか忘れないようにするた
   - 動作の軽いMIDI編集ツール
 - [MIDITrail](https://ja.osdn.net/projects/miditrail/)
   - MIDIを三次元表示するプレイヤ
-- [Mp2Tag](https://www.mp3tag.de/en/)
+- [Mp3Tag](https://www.mp3tag.de/en/)
   - タグエディタ
 
 ## 画像関連
@@ -60,6 +60,13 @@ PC移行時に何をインストールしたのか忘れないようにするた
     - [oh-my-posh](https://ohmyposh.dev) ※
     - [Nerd Font](https://www.nerdfonts.com)
       - SourceCodeProを使ってる(VSCodeのターミナルもこれ)
+- [zsh](https://www.zsh.org)
+  - PowerShellの方が好きだけど、入れられない時はこっち
+  - 拡張機能
+    - [oh-my-zsh](https://ohmyz.sh)
+    - [powerlevel10k](https://github.com/romkatv/powerlevel10k#uncompromising-performance) ※
+- [DevToys](https://devtoys.app)
+  - 開発の時に便利なツールが入ってる十徳ナイフ的ツール
 - [Windows Terminal](https://github.com/microsoft/terminal)
 
 ## SNS
@@ -85,3 +92,7 @@ PC移行時に何をインストールしたのか忘れないようにするた
   - デザインが良いファイルエクスプローラー
 - [espanso](https://espanso.org)※
   - テキスト補完ツール
+- [duf](https://github.com/muesli/duf)
+  - ディスク空き容量を確認するdfコマンドの代替
+- [dus](https://github.com/Byron/dua-cli)
+  - ディレクトリ誤との容量を簡単に見ることが出来て、削除とかもできるCLIツール
