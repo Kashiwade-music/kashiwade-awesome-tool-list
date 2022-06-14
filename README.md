@@ -67,7 +67,8 @@ PC移行時に何をインストールしたのか忘れないようにするた
     - [powerlevel10k](https://github.com/romkatv/powerlevel10k#uncompromising-performance) ※
 - [DevToys](https://devtoys.app)
   - 開発の時に便利なツールが入ってる十徳ナイフ的ツール
-- [Windows Terminal](https://github.com/microsoft/terminal)
+- [wezterm](https://github.com/wez/wezterm)
+  - ターミナルエミュ
 
 ## SNS
 - [Discord](https://discord.com)
