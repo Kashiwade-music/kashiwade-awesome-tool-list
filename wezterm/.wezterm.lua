@@ -2,7 +2,7 @@ local wezterm = require 'wezterm';
 local initial_config = {
     background = {
         {
-            source = {File = "///////////EDIT HERE//////////"},
+            source = {File = "C:\\Users\\ryo\\Pictures\\CG_AO03_0201.png"},
             hsb = {brightness = 0.05},
             repeat_x = "NoRepeat",
             repeat_y = "NoRepeat",
@@ -47,6 +47,8 @@ return {
     font = wezterm.font("SauceCodePro NF", {weight = "DemiBold"}),
     font_size = 11.0,
     default_cursor_style = "SteadyBar",
+    initial_rows = 32,
+    initial_cols = 130,
     colors = {
         foreground = "#d9d9d9",
         background = "#0e1019",
