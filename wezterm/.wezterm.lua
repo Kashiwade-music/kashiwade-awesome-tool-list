@@ -2,7 +2,7 @@ local wezterm = require 'wezterm';
 local initial_config = {
     background = {
         {
-            source = {File = "C:\\Users\\ryo\\Pictures\\CG_AO03_0201.png"},
+            source = {File = "///////////PLEASE CHANGE HERE///////////"},
             hsb = {brightness = 0.05},
             repeat_x = "NoRepeat",
             repeat_y = "NoRepeat",
